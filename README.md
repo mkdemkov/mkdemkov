@@ -1,4 +1,4 @@
-- 👋 Hi, I’m fancy man
+- 👋 Hi, I’m Mikhail
 - 👀 I’m interested in **programming**
 - 🌱 I’m currently learning **everything...**
 - 💞️ I’m looking for the **job**
